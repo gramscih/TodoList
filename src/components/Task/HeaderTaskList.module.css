@@ -1,0 +1,24 @@
+.headerContainer {
+  width: 100%;
+}
+
+.headerOptions {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.headerOptionsInput {
+  border-radius: 5px;
+  font-size: 0.7em;
+  width: 75%;
+  margin: 5px;
+  padding: 5px;
+}
+
+.headerOptionsBtn {
+  font-size: 0.7em;
+  width: 20%;
+  margin: 5px;
+  padding: 5px;
+}

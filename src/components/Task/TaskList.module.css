@@ -1,0 +1,10 @@
+.todoListContainer {
+  width: 100%;
+}
+
+.todoList {
+  list-style: none;
+  font-size: 0.9em;
+  margin: 0;
+  padding: 0;
+}

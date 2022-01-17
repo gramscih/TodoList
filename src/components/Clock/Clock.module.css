@@ -1,0 +1,10 @@
+.main {
+  background-color: #19c32f;
+  font-size: 100px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  margin: 0;
+  padding: 20px;
+  width: 100%;
+}
